@@ -34,6 +34,14 @@ var/
 pip-log.txt
 pip-delete-this-directory.txt
 
+#Pycharm associated
+*.xml
+*.iml
+.idea/
+
+#Vim associated
+*.swp
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
